@@ -1,0 +1,12 @@
+{
+  "name": "metin2tuten",
+  "version": "1.0.0",
+  "description": "Metin2Alerts test package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Deniz Ertaş",
+  "license": "MIT",
+  "lastUpdate": "2025-08-10"
+}
